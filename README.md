@@ -8,5 +8,5 @@ This Python CLI tool automates trading on Binance USDT-M Futures. It supports ma
 
 1. Python version:** 3.10 or above  
 - No extra packages required; all modules are built-in.  
-     # Optional: if using external packages
-     # pip install -r requirements.txt
+      Optional: if using external packages
+     #pip install -r requirements.txt

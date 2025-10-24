@@ -1,0 +1,8 @@
+{"ts": "2025-10-24T13:19:40.813071Z", "level": "INFO", "module": "binance_client", "message": "Placing market order"}
+{"ts": "2025-10-24T13:19:40.813071Z", "level": "INFO", "module": "market_orders", "message": "Market order response"}
+{"ts": "2025-10-24T13:20:43.419852Z", "level": "INFO", "module": "binance_client", "message": "Placing limit order"}
+{"ts": "2025-10-24T13:20:43.420835Z", "level": "INFO", "module": "limit_orders", "message": "Limit order response"}
+{"ts": "2025-10-24T14:25:00.928786Z", "level": "INFO", "module": "binance_client", "message": "Placing market order"}
+{"ts": "2025-10-24T14:25:00.937786Z", "level": "INFO", "module": "market_orders", "message": "Market order response"}
+{"ts": "2025-10-24T14:25:09.791037Z", "level": "INFO", "module": "binance_client", "message": "Placing limit order"}
+{"ts": "2025-10-24T14:25:09.798189Z", "level": "INFO", "module": "limit_orders", "message": "Limit order response"}
